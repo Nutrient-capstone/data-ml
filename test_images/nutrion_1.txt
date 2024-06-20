@@ -1,0 +1,29 @@
+ 
+
+Nutrition Facts
+
+6 servings per container
+Serving size 1 cup (230g)
+ee
+
+Amount per serving
+
+Calories 245
+
+ 
+
+% Daily Value*
+Total Fat 12g 14%
+Saturated Fat 2g 10%
+Trans Fat Og
+Cholesterol 8mg 3%
+Sodium 210mg 9%
+Total Carbohydrate 34g 12%
+Dietary Fiber 7g 25%
+Total Sugars 5g
+Includes 4g Added Sugars 8%
+
+Protein 11g
+
+
+{'Energy': '245 kkal', 'Fat': '12 g', 'Protein': '11 g', 'Carbohydrate': '34 g', 'Sugar': '5 g'}

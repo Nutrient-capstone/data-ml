@@ -1,0 +1,30 @@
+ee ee ee ee
+INFORMASI NILAI GIZI
+Takaran saji 4.75 g
+
+ 
+
+4 Sajian per Kemasan
+JUMLAH PER SAJIAN
+Energi Total 10 kkal
+Energi dari lemak 0 kkal
+Energi dari lemak jenuh 0 kkal
+%AKG*
+Lemak Total 0g O%
+Lemak Jenuh 0g O%
+Protein 1g %
+
+ 
+
+ 
+
+Karbohidrat Total Ig 0%
+Gula 1g
+Garam (natrium) 920mg 61%
+
+ 
+
+ 
+
+
+{'Energy': '10 kkal', 'Fat': '0 g', 'Protein': '1 g', 'Carbohydrate': '0 g', 'Sugar': '1 g'}

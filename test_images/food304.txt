@@ -1,0 +1,37 @@
+ 
+
+INFORMASI NILA! GIZI / NUTRITION FACT —
+Takaran saji/Servingsize :6qg
+4 Sajian per Kemasan / 4 Servings per Container
+
+JUMLAH PER SAJIAN | AMOUNT PER SERVING
+Energi total / Total energy 3 15 kkal/kcal
+Energi dari lemak / Energy from fat _ Kkal/kcal
+
+  
+  
+    
+    
+   
+   
+   
+   
+     
+   
+
+  
+
+  
+
+Lemak total / Tota! fat 0g 0%
+Kolesterol / Cholesterol Omg 0%
+Lemak jenuh / Saturated fat Og 0%
+
+j Karbohidrat total / Total carbohydrate 3g 1%
+Serat pangan / Dietary fiber Og 0%
+
+Gula / Sugar 29g
+Garam (natrium) / Sait (sodium)
+
+
+{'Energy': '3 kkal', 'Fat': '0 g', 'Protein': '0 g', 'Carbohydrate': '3 g', 'Sugar': '29 g'}

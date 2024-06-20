@@ -1,0 +1,33 @@
+SOW VITIVIAYI INILAL VICI
+
+ 
+
+ 
+
+Takaran Saji 18.5 g
+
+3.5 Sajian per Kemasan
+
+JUMLAH PER SAJIAN
+
+Energi Total 100 kkal
+Energi dari Lemak 60 kkal
+
+% AKG*
+
+Lemak Total 6g 10%
+
+Lemak Jenuh 4.5g 22 %
+
+Protein 1g 2%
+
+Karbohidrat Total 10g 3%
+
+Gula 1g
+
+Garam (Natrium) 105 mg 7%
+
+ 
+
+
+{'Energy': '100 kkal', 'Fat': '6 g', 'Protein': '1 g', 'Carbohydrate': '10 g', 'Sugar': '1 g'}
